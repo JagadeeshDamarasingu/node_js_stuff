@@ -1,0 +1,14 @@
+{
+  "name": "NodeJs-Stuff",
+  "version": "0.0.1",
+  "description": "All NodeJs Projects",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Jagadeesh Damarasingu",
+  "license": "MIT"
+}
